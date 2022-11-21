@@ -1,0 +1,12 @@
+.grid__side {
+	grid-area: side;
+  background-color: yellow;
+}
+
+.grid__item {
+  color: gray;
+}
+
+.grid__border {
+  border: solid 2px red;
+}

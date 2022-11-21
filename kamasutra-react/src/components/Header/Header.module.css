@@ -1,0 +1,8 @@
+.grid__header {
+	grid-area: header;
+  background-color: blue;
+}
+
+.grid__header img {
+  width: 80px;
+}

@@ -1,0 +1,24 @@
+.maine__dialogs {
+ display: grid;
+ grid-template-columns: 2fr 10fr;
+}
+
+.dialogs {
+border: solid 2px red;
+}
+
+.dialog {
+color: aqua;
+}
+
+.activ {
+color: gold;
+}
+
+.messages {
+  border: solid 2px greenyellow;
+}
+
+.messages {
+  color: aquamarine;
+}
