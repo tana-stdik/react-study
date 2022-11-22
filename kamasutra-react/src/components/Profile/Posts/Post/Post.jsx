@@ -2,7 +2,6 @@ import React from 'react';
 import c from './Post.module.css';
 
 const Post = (props) => {
-  debugger;
   return (
           <div className={c.item}>
             <img src='https://cdn.pixabay.com/photo/2016/08/16/10/18/dragon-1597583_1280.png'/>
